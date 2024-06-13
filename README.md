@@ -1,7 +1,11 @@
 Quality control part -->quality control.ipynb
+
 GWAS analysis and pca -->GWAS_HEIGHT.ipynb
+
 PRS prediction for height -->GWAS_HEIGHT_trained_PRS_prediction.ipynb
+
 Significant variants for different dataset and p-value are attached.
+
 pretrained_PGS000758.txt is the pretrained snp score files from this paper https://academic.oup.com/jcem/article/106/7/1918/6206752.
 
 We generated other files from the origin data on the server using plink. The specific steps are showing below.
